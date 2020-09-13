@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hola a todos 👋, Soy Miguel Mares, bienvenido a mi perfil de GitHub
 
+Aqui hay algunas cosas acerca de mi:
+
+### 🔭 En que estoy trabajando actualmente:
+* Actualmente codifico en C++, tanto en mi trabajo como pasatiempo, estoy tratando de dominar el lenguaje lo más que se pueda asi que encontrarás repositorios con muchos ejemplos de características básica y avanzadas de C++.
+* Programo un poco en Python para aprender ciencia de datos y Machine Learning, aunque estoy un poco atrasado en esto, tambien encontraras repositorios aqui.
+
+### Lo que me gustaria aprender:
+* Machine Learning, Deep Learnind y Ciencia de Datos.
+* Aplicaciones mobiles para Android y Iphone.
 <!--
 **Mangelsanm/Mangelsanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
